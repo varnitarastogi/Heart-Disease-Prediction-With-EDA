@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction-With-EDA
+# Heart-Failure-Prediction-With-EDA
 ## Exploratory data analysis
 ### Understanding the dataset
 - First 10 rows
