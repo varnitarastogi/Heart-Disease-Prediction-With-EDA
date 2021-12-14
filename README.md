@@ -1,5 +1,5 @@
 # Heart-Failure-Prediction-With-EDA
-### Understanding the dataset
+## Understanding the dataset
 - First 10 rows
 - Last 10 rows
 - Column names
@@ -10,7 +10,7 @@
 - Number of missing values in data
 - Some basic statistics about the data
 - Number of duplicates in the data
-### Analyzing relationships 
+## Analyzing relationships 
 - Distribution of columns
   - Histograms
   - Violin plots
@@ -25,3 +25,9 @@
 - One hot encoding
 - Dealing with multicollinearity
 - Scaling data
+-Min,Max and Mean of scaled data
+## Modelling
+- Support Vector Machine
+- Random Forest
+- Naive Bayes
+- XGBoost
