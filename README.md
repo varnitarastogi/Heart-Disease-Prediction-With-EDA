@@ -1,5 +1,4 @@
 # Heart-Failure-Prediction-With-EDA
-
 ## Understanding the dataset
 - First 10 rows
 - Last 10 rows
