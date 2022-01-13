@@ -1,4 +1,5 @@
 # Heart-Failure-Prediction-With-EDA
+Heart failure is a common event caused by cardiovascular diseases. The dataset used contains 12 attributes, one of them being the occurence or nonoccurence of a heart disease.The data has been taken from Kaggle. The project aims to predict whether a person will have a heart disease based on the attributes. The final model with the best performance for this supervised learning task is XGBOOST with a precision score of 87%. Hyperparameter tuning has been done with the help of OPTUNA. 
 ## Understanding the dataset
 - First 10 rows
 - Last 10 rows
