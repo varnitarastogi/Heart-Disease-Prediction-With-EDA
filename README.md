@@ -32,3 +32,6 @@ Heart failure is a common event caused by cardiovascular diseases. The dataset u
 - Random Forest
 - Naive Bayes
 - XGBoost
+## Confusion matrix for test data
+![image](https://user-images.githubusercontent.com/73664577/149398572-56bcff32-ce4b-4aa7-a3c1-619bc868f66d.png)
+
